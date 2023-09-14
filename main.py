@@ -13,3 +13,8 @@ with col2:
     Hi, my name is Jason Widjaja.. (ADD MORE STUFF HERE)
     """
     st.info(content)
+
+content2 = """
+Below you can find some of the apps I have built in Python. Feel free to contact me!
+"""
+st.write(content2)
